@@ -44,4 +44,4 @@ Feel free to contribute to make CipherScript even better! Fork the repository, m
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Shoieb License - see the [LICENSE](LICENSE) file for details.
